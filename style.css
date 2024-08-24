@@ -1,0 +1,60 @@
+.ertak {
+  display: flex;
+  gap: 2px;
+  justify-content: left;
+}
+.bola {
+  border: 1px solid red;
+  width: 30px;
+  height: 30px;
+}
+.box {
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+}
+.box1 {
+  border: 1px solid red;
+  width: 30px;
+  height: 30px;
+}
+.otabek {
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+}
+.bola1 {
+  border: 1px solid red;
+  width: 30px;
+  height: 30px;
+}
+.ismoil {
+  display: flex;
+  gap: 2px;
+  justify-content: right;
+}
+.ismoil1 {
+  border: 1px solid red;
+  width: 30px;
+  height: 30px;
+}
+.islom {
+  display: flex;
+  gap: 2px;
+  justify-content: space-between;
+}
+.islom1 {
+  border: 1px solid red;
+  width: 30px;
+  height: 30px;
+}
+.ibrohimjon {
+  display: flex;
+  gap: 2px;
+  justify-content: space-around;
+}
+.ibrohimjon1 {
+    border: 1px solid red;
+    width: 30px;
+    height: 30px;
+}
